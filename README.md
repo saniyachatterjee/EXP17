@@ -65,7 +65,7 @@ int main() {
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/edd58846-490d-43d2-9a5c-f9872f0adcfe)
+![Screenshot 2024-10-14 125938](https://github.com/user-attachments/assets/d5f3f275-6e18-4b19-b441-0b53d87a8bf2)
 
 
 ```
@@ -121,7 +121,8 @@ int main() {
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/9252861d-5774-46b1-bd46-7e772eb5f0d9)
+
+![Screenshot 2024-10-14 130020](https://github.com/user-attachments/assets/d3a8438f-2663-42cc-8b48-dd1be0bd70be)
 
 # Conclusion
 The code shows basic actions on a singly linked list, specifically the insertion and deletion of the head node. By combining these operations with a display function, the program clearly shows how to dynamically manipulate linked lists in memory.
